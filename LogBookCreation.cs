@@ -23,14 +23,16 @@ namespace GildedRose.Tests
 			logWriter.WriteHeader();
 			logWriter.InventoryReport();
 
+			// Pass the days.
 			for (int i = 0; i < 50; i++)
 			{
+				store.UpdateQuality();
 				logWriter.AppendDayReport();
 				logWriter.InventoryReport();
 			}
 
+			// Check if the report is still the same.
 			var contentAfter = System.IO.File.ReadAllText(fileName);
-
 			Assert.That(contentBefore, Is.EqualTo(contentAfter));
 		}
 	}

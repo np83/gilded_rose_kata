@@ -17,12 +17,12 @@ Today is dinsdag 3 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 19	 to be sold before 9	 +5 Dexterity Vest
+Of quality 1	 to be sold before 1	 Aged Brie
+Of quality 6	 to be sold before 4	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 21	 to be sold before 14	 Backstage passes to a TAFKAL80ETC concert
+Of quality 5	 to be sold before 2	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -31,12 +31,12 @@ Today is woensdag 4 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 18	 to be sold before 8	 +5 Dexterity Vest
+Of quality 2	 to be sold before 0	 Aged Brie
+Of quality 5	 to be sold before 3	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 22	 to be sold before 13	 Backstage passes to a TAFKAL80ETC concert
+Of quality 4	 to be sold before 1	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -45,12 +45,12 @@ Today is donderdag 5 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 17	 to be sold before 7	 +5 Dexterity Vest
+Of quality 4	 to be sold before -1	 Aged Brie
+Of quality 4	 to be sold before 2	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 23	 to be sold before 12	 Backstage passes to a TAFKAL80ETC concert
+Of quality 3	 to be sold before 0	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -59,12 +59,12 @@ Today is vrijdag 6 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 16	 to be sold before 6	 +5 Dexterity Vest
+Of quality 6	 to be sold before -2	 Aged Brie
+Of quality 3	 to be sold before 1	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 24	 to be sold before 11	 Backstage passes to a TAFKAL80ETC concert
+Of quality 1	 to be sold before -1	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -73,12 +73,12 @@ Today is zaterdag 7 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 15	 to be sold before 5	 +5 Dexterity Vest
+Of quality 8	 to be sold before -3	 Aged Brie
+Of quality 2	 to be sold before 0	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 25	 to be sold before 10	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -2	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -87,12 +87,12 @@ Today is zondag 8 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 14	 to be sold before 4	 +5 Dexterity Vest
+Of quality 10	 to be sold before -4	 Aged Brie
+Of quality 0	 to be sold before -1	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 27	 to be sold before 9	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -3	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -101,12 +101,12 @@ Today is maandag 9 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 13	 to be sold before 3	 +5 Dexterity Vest
+Of quality 12	 to be sold before -5	 Aged Brie
+Of quality 0	 to be sold before -2	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 29	 to be sold before 8	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -4	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -115,12 +115,12 @@ Today is dinsdag 10 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 12	 to be sold before 2	 +5 Dexterity Vest
+Of quality 14	 to be sold before -6	 Aged Brie
+Of quality 0	 to be sold before -3	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 31	 to be sold before 7	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -5	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -129,12 +129,12 @@ Today is woensdag 11 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 11	 to be sold before 1	 +5 Dexterity Vest
+Of quality 16	 to be sold before -7	 Aged Brie
+Of quality 0	 to be sold before -4	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 33	 to be sold before 6	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -6	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -143,12 +143,12 @@ Today is donderdag 12 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 10	 to be sold before 0	 +5 Dexterity Vest
+Of quality 18	 to be sold before -8	 Aged Brie
+Of quality 0	 to be sold before -5	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 35	 to be sold before 5	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -7	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -157,12 +157,12 @@ Today is vrijdag 13 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 8	 to be sold before -1	 +5 Dexterity Vest
+Of quality 20	 to be sold before -9	 Aged Brie
+Of quality 0	 to be sold before -6	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 38	 to be sold before 4	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -8	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -171,12 +171,12 @@ Today is zaterdag 14 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 6	 to be sold before -2	 +5 Dexterity Vest
+Of quality 22	 to be sold before -10	 Aged Brie
+Of quality 0	 to be sold before -7	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 41	 to be sold before 3	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -9	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -185,12 +185,12 @@ Today is zondag 15 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 4	 to be sold before -3	 +5 Dexterity Vest
+Of quality 24	 to be sold before -11	 Aged Brie
+Of quality 0	 to be sold before -8	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 44	 to be sold before 2	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -10	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -199,12 +199,12 @@ Today is maandag 16 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 2	 to be sold before -4	 +5 Dexterity Vest
+Of quality 26	 to be sold before -12	 Aged Brie
+Of quality 0	 to be sold before -9	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 47	 to be sold before 1	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -11	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -213,12 +213,12 @@ Today is dinsdag 17 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -5	 +5 Dexterity Vest
+Of quality 28	 to be sold before -13	 Aged Brie
+Of quality 0	 to be sold before -10	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 50	 to be sold before 0	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -12	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -227,12 +227,12 @@ Today is woensdag 18 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -6	 +5 Dexterity Vest
+Of quality 30	 to be sold before -14	 Aged Brie
+Of quality 0	 to be sold before -11	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -1	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -13	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -241,12 +241,12 @@ Today is donderdag 19 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -7	 +5 Dexterity Vest
+Of quality 32	 to be sold before -15	 Aged Brie
+Of quality 0	 to be sold before -12	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -2	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -14	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -255,12 +255,12 @@ Today is vrijdag 20 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -8	 +5 Dexterity Vest
+Of quality 34	 to be sold before -16	 Aged Brie
+Of quality 0	 to be sold before -13	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -3	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -15	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -269,12 +269,12 @@ Today is zaterdag 21 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -9	 +5 Dexterity Vest
+Of quality 36	 to be sold before -17	 Aged Brie
+Of quality 0	 to be sold before -14	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -4	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -16	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -283,12 +283,12 @@ Today is zondag 22 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -10	 +5 Dexterity Vest
+Of quality 38	 to be sold before -18	 Aged Brie
+Of quality 0	 to be sold before -15	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -5	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -17	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -297,12 +297,12 @@ Today is maandag 23 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -11	 +5 Dexterity Vest
+Of quality 40	 to be sold before -19	 Aged Brie
+Of quality 0	 to be sold before -16	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -6	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -18	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -311,12 +311,12 @@ Today is dinsdag 24 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -12	 +5 Dexterity Vest
+Of quality 42	 to be sold before -20	 Aged Brie
+Of quality 0	 to be sold before -17	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -7	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -19	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -325,12 +325,12 @@ Today is woensdag 25 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -13	 +5 Dexterity Vest
+Of quality 44	 to be sold before -21	 Aged Brie
+Of quality 0	 to be sold before -18	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -8	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -20	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -339,12 +339,12 @@ Today is donderdag 26 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -14	 +5 Dexterity Vest
+Of quality 46	 to be sold before -22	 Aged Brie
+Of quality 0	 to be sold before -19	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -9	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -21	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -353,12 +353,12 @@ Today is vrijdag 27 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -15	 +5 Dexterity Vest
+Of quality 48	 to be sold before -23	 Aged Brie
+Of quality 0	 to be sold before -20	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -10	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -22	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -367,12 +367,12 @@ Today is zaterdag 28 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -16	 +5 Dexterity Vest
+Of quality 50	 to be sold before -24	 Aged Brie
+Of quality 0	 to be sold before -21	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -11	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -23	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -381,12 +381,12 @@ Today is zondag 29 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -17	 +5 Dexterity Vest
+Of quality 50	 to be sold before -25	 Aged Brie
+Of quality 0	 to be sold before -22	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -12	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -24	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -395,12 +395,12 @@ Today is maandag 30 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -18	 +5 Dexterity Vest
+Of quality 50	 to be sold before -26	 Aged Brie
+Of quality 0	 to be sold before -23	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -13	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -25	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -409,12 +409,12 @@ Today is dinsdag 31 maart 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -19	 +5 Dexterity Vest
+Of quality 50	 to be sold before -27	 Aged Brie
+Of quality 0	 to be sold before -24	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -14	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -26	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -423,12 +423,12 @@ Today is woensdag 1 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -20	 +5 Dexterity Vest
+Of quality 50	 to be sold before -28	 Aged Brie
+Of quality 0	 to be sold before -25	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -15	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -27	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -437,12 +437,12 @@ Today is donderdag 2 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -21	 +5 Dexterity Vest
+Of quality 50	 to be sold before -29	 Aged Brie
+Of quality 0	 to be sold before -26	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -16	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -28	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -451,12 +451,12 @@ Today is vrijdag 3 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -22	 +5 Dexterity Vest
+Of quality 50	 to be sold before -30	 Aged Brie
+Of quality 0	 to be sold before -27	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -17	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -29	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -465,12 +465,12 @@ Today is zaterdag 4 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -23	 +5 Dexterity Vest
+Of quality 50	 to be sold before -31	 Aged Brie
+Of quality 0	 to be sold before -28	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -18	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -30	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -479,12 +479,12 @@ Today is zondag 5 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -24	 +5 Dexterity Vest
+Of quality 50	 to be sold before -32	 Aged Brie
+Of quality 0	 to be sold before -29	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -19	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -31	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -493,12 +493,12 @@ Today is maandag 6 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -25	 +5 Dexterity Vest
+Of quality 50	 to be sold before -33	 Aged Brie
+Of quality 0	 to be sold before -30	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -20	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -32	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -507,12 +507,12 @@ Today is dinsdag 7 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -26	 +5 Dexterity Vest
+Of quality 50	 to be sold before -34	 Aged Brie
+Of quality 0	 to be sold before -31	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -21	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -33	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -521,12 +521,12 @@ Today is woensdag 8 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -27	 +5 Dexterity Vest
+Of quality 50	 to be sold before -35	 Aged Brie
+Of quality 0	 to be sold before -32	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -22	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -34	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -535,12 +535,12 @@ Today is donderdag 9 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -28	 +5 Dexterity Vest
+Of quality 50	 to be sold before -36	 Aged Brie
+Of quality 0	 to be sold before -33	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -23	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -35	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -549,12 +549,12 @@ Today is vrijdag 10 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -29	 +5 Dexterity Vest
+Of quality 50	 to be sold before -37	 Aged Brie
+Of quality 0	 to be sold before -34	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -24	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -36	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -563,12 +563,12 @@ Today is zaterdag 11 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -30	 +5 Dexterity Vest
+Of quality 50	 to be sold before -38	 Aged Brie
+Of quality 0	 to be sold before -35	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -25	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -37	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -577,12 +577,12 @@ Today is zondag 12 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -31	 +5 Dexterity Vest
+Of quality 50	 to be sold before -39	 Aged Brie
+Of quality 0	 to be sold before -36	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -26	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -38	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -591,12 +591,12 @@ Today is maandag 13 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -32	 +5 Dexterity Vest
+Of quality 50	 to be sold before -40	 Aged Brie
+Of quality 0	 to be sold before -37	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -27	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -39	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -605,12 +605,12 @@ Today is dinsdag 14 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -33	 +5 Dexterity Vest
+Of quality 50	 to be sold before -41	 Aged Brie
+Of quality 0	 to be sold before -38	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -28	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -40	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -619,12 +619,12 @@ Today is woensdag 15 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -34	 +5 Dexterity Vest
+Of quality 50	 to be sold before -42	 Aged Brie
+Of quality 0	 to be sold before -39	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -29	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -41	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -633,12 +633,12 @@ Today is donderdag 16 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -35	 +5 Dexterity Vest
+Of quality 50	 to be sold before -43	 Aged Brie
+Of quality 0	 to be sold before -40	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -30	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -42	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -647,12 +647,12 @@ Today is vrijdag 17 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -36	 +5 Dexterity Vest
+Of quality 50	 to be sold before -44	 Aged Brie
+Of quality 0	 to be sold before -41	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -31	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -43	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -661,12 +661,12 @@ Today is zaterdag 18 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -37	 +5 Dexterity Vest
+Of quality 50	 to be sold before -45	 Aged Brie
+Of quality 0	 to be sold before -42	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -32	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -44	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -675,12 +675,12 @@ Today is zondag 19 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -38	 +5 Dexterity Vest
+Of quality 50	 to be sold before -46	 Aged Brie
+Of quality 0	 to be sold before -43	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -33	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -45	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -689,12 +689,12 @@ Today is maandag 20 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -39	 +5 Dexterity Vest
+Of quality 50	 to be sold before -47	 Aged Brie
+Of quality 0	 to be sold before -44	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -34	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -46	 Conjured Mana Cake
 --------------------------------------------------
 
 
@@ -703,10 +703,10 @@ Today is dinsdag 21 april 1812, may it bring nothing but good.
 --------------------------------------------------
 The current inventory holds 6 items:
 --------------------------------------------------
-Of quality 20	 to be sold before 10	 +5 Dexterity Vest
-Of quality 0	 to be sold before 2	 Aged Brie
-Of quality 7	 to be sold before 5	 Elixir of the Mongoose
+Of quality 0	 to be sold before -40	 +5 Dexterity Vest
+Of quality 50	 to be sold before -48	 Aged Brie
+Of quality 0	 to be sold before -45	 Elixir of the Mongoose
 Of quality 80	 to be sold before 0	 Sulfuras, Hand of Ragnaros
-Of quality 20	 to be sold before 15	 Backstage passes to a TAFKAL80ETC concert
-Of quality 6	 to be sold before 3	 Conjured Mana Cake
+Of quality 0	 to be sold before -35	 Backstage passes to a TAFKAL80ETC concert
+Of quality 0	 to be sold before -47	 Conjured Mana Cake
 --------------------------------------------------
