@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CodedRoseTestBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TimePasses.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -2,9 +2,39 @@ using System.Collections.Generic;
 
 namespace GildedRose
 {
-	public static class Frame
+	public class GildedRoseStore
 	{
-		public static void UpdateQuality()
+		private readonly List<Item> items;
+
+		public IList<Item> Items
+		{
+			get { return items; }
+		}
+
+		public GildedRoseStore()
+			: this(CreateInitialStock())
+		{
+		}
+
+		public GildedRoseStore(IEnumerable<Item> items)
+		{
+			this.items = new List<Item>(items);
+		}
+
+		private static IList<Item> CreateInitialStock()
+		{
+			return new List<Item>
+			{
+				new Item { Name = "+5 Dexterity Vest", SellIn = 10, Quality = 20 },
+				new Item { Name = "Aged Brie", SellIn = 2, Quality = 0 },
+				new Item { Name = "Elixir of the Mongoose", SellIn = 5, Quality = 7 },
+				new Item { Name = "Sulfuras, Hand of Ragnaros", SellIn = 0, Quality = 80 },
+				new Item { Name = "Backstage passes to a TAFKAL80ETC concert", SellIn = 15, Quality = 20 },
+				new Item { Name = "Conjured Mana Cake", SellIn = 3, Quality = 6 },
+			};
+		}
+
+		public void UpdateQuality()
 		{
 			for (var i = 0; i < Items.Count; i++)
 			{
@@ -79,23 +109,11 @@ namespace GildedRose
 				}
 			}
 		}
-
-		public static IList<Item> CreateDayOne()
-		{
-			return new List<Item>
-			{
-				new Item { Name = "+5 Dexterity Vest", SellIn = 10, Quality = 20 },
-				new Item { Name = "Aged Brie", SellIn = 2, Quality = 0 },
-				new Item { Name = "Elixir of the Mongoose", SellIn = 5, Quality = 7 },
-				new Item { Name = "Sulfuras, Hand of Ragnaros", SellIn = 0, Quality = 80 },
-				new Item { Name = "Backstage passes to a TAFKAL80ETC concert", SellIn = 15, Quality = 20 },
-				new Item { Name = "Conjured Mana Cake", SellIn = 3, Quality = 6 },
-			};
-		}
-
-		public static readonly IList<Item> Items = CreateDayOne();
 	}
 
+	/// <summary>
+	/// You are NOT allowed to change this class; here be gremlins!
+	/// </summary>
 	public class Item
 	{
 		public string Name { get; set; }
