@@ -48,7 +48,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\trunk\GildedRose.csproj">
+    <ProjectReference Include="GildedRose.csproj">
       <Project>{8482f7a2-3490-4bc5-8993-84c58cc82760}</Project>
       <Name>GildedRose</Name>
     </ProjectReference>
