@@ -13,8 +13,7 @@ namespace GildedRose.Tests
 		public void WriteLogBook()
 		{
 			var fileName = @"..\..\logbook.txt";
-			var contentBefore = System.IO.File.ReadAllText(fileName);
-			System.IO.File.Copy(fileName, @"..\..\logbook_before.txt", true);
+			var contentBefore = System.IO.File.ReadAllText(@"..\..\logbook_before.txt");
 
 			var store = new GildedRoseStore();
 
